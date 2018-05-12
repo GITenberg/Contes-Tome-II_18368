@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
     - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18368#Contes-Tome-II
 gutenberg_bookshelf:
 - FR Contes
 - FR Femmes
